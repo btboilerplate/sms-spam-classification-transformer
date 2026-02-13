@@ -1,0 +1,24 @@
+# Ignore results and outputs
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Large model checkpoints
+*.pt
+*.pth
+*.bin
+
+# OS files
+.DS_Store
+
+## Saved Model
+senti_model/
+
